@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     bool isLoggedIn = false;
 
     return MaterialApp(
-      title: 'Flutter App',
+      title: 'Gestion de taches',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
